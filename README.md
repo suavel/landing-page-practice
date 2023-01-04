@@ -9,3 +9,5 @@ Primarily focusing on:
 - Use of Flexbox
 - Build from my current knowledge strictly
 - Use only my notes with minimal outside assistance
+
+Image Credits: Placeholder.com
