@@ -5,17 +5,17 @@
 
 .navbar-wrapper {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
     color: #F9FAF8;
     font-size: 24px;
+    flex: auto;
 }
 
 .navbar-wrapper a {
     color: #E5E7EB;
     font-size: 18px;
     text-decoration: none;
-    flex: 0 0 100px;
+    justify-content: right;
 }
 
