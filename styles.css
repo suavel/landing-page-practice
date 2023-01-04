@@ -1,8 +1,15 @@
+* {
+    font-family: 'roboto';
+    margin: 0;
+}
+
 .navbar-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 24px;
 }
 
 .navbar-wrapper a {
@@ -11,3 +18,4 @@
     text-decoration: none;
     flex: 0 0 100px;
 }
+
