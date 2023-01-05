@@ -101,4 +101,20 @@ button {
     text-align: right;
 }
 
+.cta {
+    display: flex;
+}
 
+.cta-wrapper {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+}
+
+.cta-wrapper button {
+    background-color: #3882F6;
+    padding: 10px 30px;
+    border-style: solid;
+    border-color: #F9FAF8;
+    border-radius: 10px;
+}
