@@ -29,13 +29,13 @@
 .header {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     padding: 100px;
 }
 
 .header .content {
-    flex: 1 1 100px;    
-}
+    max-width: 400px;    
+} 
 
 .header .content h1 {
     font-size: 48px;
@@ -47,10 +47,11 @@
 button {
     font-size: 18px;
     color: #E5E7EB;
+    padding: 15px 0px;
 }
 
 .header .content button {
     background-color: #3882F6;
-    padding: 13px 38px;
+    padding: 8px 38px;
     border-radius: 10px;
 }
