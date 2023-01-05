@@ -61,7 +61,7 @@ button {
     text-align: center;
     color:#1F2937;
     font-size: 18px;
-    padding: 50px
+    padding: 100px
 }
 
 .information .showcase {
@@ -80,18 +80,25 @@ button {
 }
 
 .testimonial {
+    display: flex;
     background-color: #E5E7EB;
+    padding: 100px;
+    justify-content: center;
 }
 
 .testimonial .wrapper {
-    display: flex;
-    max-width: 500px;
+    max-width: 790px;
 }
 
-.testimonial .quote-text {
+.testimonial .wrapper .quote-text {
     font-size: 36px;
     font-weight: 100;
     color: #1F2937;
+}
+
+.testimonial .wrapper .author {
+    padding: 5px 0px;
+    text-align: right;
 }
 
 
