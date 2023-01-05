@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+.header,
+.navbar-wrapper {
+    background-color: #1F2937;  
+}
+
 .navbar-wrapper {
     display: flex;
     align-items: center;
@@ -18,5 +23,9 @@
     font-size: 18px;
     text-decoration: none;
     margin: 0px 10px;
+}
+
+.header {
+
 }
 
