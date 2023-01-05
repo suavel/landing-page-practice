@@ -55,3 +55,26 @@ button {
     padding: 8px 38px;
     border-radius: 10px;
 }
+
+.information {
+    justify-content: center;
+    text-align: center;
+    color:#1F2937;
+    font-size: 18px;
+    padding: 50px
+}
+
+.information .showcase {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.information .showcase .box {
+    align-items: center;
+    margin: 10px;
+}
+
+.information .showcase .box img {
+    border-radius: 10px;
+}
