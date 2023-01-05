@@ -4,7 +4,8 @@
 }
 
 .header,
-.navbar-wrapper {
+.navbar-wrapper,
+.footer {
     background-color: #1F2937;  
 }
 
@@ -26,6 +27,30 @@
 }
 
 .header {
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
 }
 
+.header .content {
+    flex: 1 1 100px;    
+}
+
+.header .content h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.header .content p,
+button {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header .content button {
+    background-color: #3882F6;
+    padding: 13px 38px;
+    border-radius: 10px;
+}
