@@ -78,3 +78,17 @@ button {
 .information .showcase .box img {
     border-radius: 10px;
 }
+
+.testimonial {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonial .quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+}
+
+
