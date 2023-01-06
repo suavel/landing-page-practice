@@ -111,7 +111,7 @@ button {
     display: flex;
 }
 
-.cta-wrapper button {
+.cta button {
     background-color: #3882F6;
     padding: 10px 30px;
     border-style: solid;
