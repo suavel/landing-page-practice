@@ -103,16 +103,17 @@ button {
 
 .cta {
     display: flex;
+    background-color: #3882F6;
 }
 
 .cta-wrapper {
-    background-color: #3882F6;
     color: #F9FAF8;
     display: flex;
+    flex-direction: column;
 }
 
-.cta button {
-    background-color: #3882F6;
+.cta-wrapper button {
+    background-color: transparent;
     padding: 10px 30px;
     border-style: solid;
     border-color: #F9FAF8;
