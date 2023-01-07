@@ -42,14 +42,19 @@
     padding: 150px;
 }
 
-.header img {
-    width: 300px;
-    height: auto;
+.header .img-wrapper {
+    height: 400px;
+    width: 500px;
+    overflow: hidden;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
 }
+
 
 .header .content {
     max-width: 400px; 
-    margin-right: 20px;
 } 
 
 
