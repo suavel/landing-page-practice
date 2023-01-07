@@ -42,9 +42,16 @@
     padding: 150px;
 }
 
+.header img {
+    width: 300px;
+    height: auto;
+}
+
 .header .content {
-    max-width: 400px;    
+    max-width: 400px; 
+    margin-right: 20px;
 } 
+
 
 .header .content h1 {
     font-size: 48px;
