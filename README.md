@@ -4,8 +4,7 @@ This is a test project for The Odin Project to practice HTML/CSS & proper commit
 
 The content is a parody of the software industry with all fictional information.
 
-I am building this page using only HTML & CSS from a provided design of an example page.
-
+I am building this page using only HTML & CSS from a provided design.
 
 
 Primarily focusing on:
