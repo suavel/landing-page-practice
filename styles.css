@@ -30,7 +30,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 100px;
+    padding: 150px;
 }
 
 .header .content {
@@ -47,7 +47,7 @@
 button {
     font-size: 18px;
     color: #E5E7EB;
-    padding: 15px 0px;
+    padding: 25px 0px;
 }
 
 .header .content button {
